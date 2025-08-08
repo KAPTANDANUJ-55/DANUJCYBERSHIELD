@@ -12,6 +12,6 @@ A Python-based tool to detect scam messages, suspicious URLs, and fraud phone nu
 ## Install
 ```bash
 git clone https://github.com/KAPTANDANUJ-55/DANUJCYBERSHIELD.git
-cd Danuj-CyberShield
+cd DANUJCYBERSHIELD
 pip install -r requirements.txt
-python cyber_shield.py
+python main.py
